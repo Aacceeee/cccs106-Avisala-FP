@@ -1,0 +1,5 @@
+# Replace @dev1-github-username with Dev 1's real GitHub username.
+/docs/              @dev1-github-username
+/app/views/         @dev1-github-username
+/app/theme.py       @dev1-github-username
+/assets/            @dev1-github-username
